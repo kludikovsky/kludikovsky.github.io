@@ -8,4 +8,4 @@ Charles Bronson war einer der besten Schauspieler des 20. Jahrhunderts. Er hat s
 * ddd
 * wwwww
 
-> "Ich schaue mir meine Filme nie an. Sie sind mir zu brutal."
+> Ich schaue mir meine Filme nie an. Sie sind mir zu brutal.
