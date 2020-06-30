@@ -7,3 +7,5 @@ Charles Bronson war einer der bestenSchauspieler des 20. Jahrhunderts. Er hat se
 * trockener Humar
 * ddd
 * wwwww
+
+"Ich schaue mir meine Filme nie an. Sie sind mir zu brutal."
