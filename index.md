@@ -9,3 +9,6 @@ Charles Bronson war einer der besten Schauspieler des 20. Jahrhunderts. Er hat s
 * wwwww
 
 > Ich schaue mir meine Filme nie an. Sie sind mir zu brutal.
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Charles_Bronson_Cannes.jpg" \>
